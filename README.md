@@ -1,0 +1,2 @@
+# onlyu-go-bind
+ Binding
